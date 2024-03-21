@@ -2,9 +2,9 @@
 
 ## Trading
 
-Trading strategies:
-1. Create trading signals using moving averages
-
+Contents:
+1. Implement a simple trading strategy by creating trading signals using moving averages
+2. Model stock return and measure financial risk when investing
 
 ## Economics
 

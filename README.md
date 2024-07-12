@@ -7,8 +7,8 @@ Goal: combine data from various sources (such as social media, financial news, a
 Two very important measures: **Sharpe Ratio** and **Maximum Drawdown**.
 
 Notebooks:
-1. Create trading signals using moving averages via `rolling()` method in pandas
-2. Implement trend-following strategy
+1. Create trading signals using moving averages via `rolling()` method in pandas.
+2. Implement trend-following strategy: long one share of stock if fast signal is above slow signal.
 3. Model stock return and measure financial risk when investing
 4. Estimate the confidence interval for the return of stocks or equity funds
 5. Validate assertion or specific claims (e.g. from fund managers) about investment returns 
